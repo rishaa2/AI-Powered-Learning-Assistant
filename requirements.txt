@@ -1,0 +1,9 @@
+pypdf
+langchain
+langchain-google-genai
+langchain-community
+python-dotenv
+aiofiles
+python-multipart
+fastapi
+uvicorn
